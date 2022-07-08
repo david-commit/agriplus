@@ -28,9 +28,13 @@
 }
 nav{
     width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
 }
 nav ul{
     list-style: none;
+    
 }
 nav ul li {
     float: left;
@@ -53,13 +57,13 @@ nav ul li a:active{
     text-decoration: underline;
 }
 #login{
-color: white;
-background-color: black;
-border: none;
-padding: 15px;
-margin-right: 12px;
-font-weight: 700;
-font-size: 18px;
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 15px;
+    margin-right: 12px;
+    font-weight: 700;
+    font-size: 18px;
 }
 #start{
     color: white;
@@ -108,7 +112,7 @@ font-size: 18px;
     margin-top: -500px;
 }
 .innercontainer{
-    padding: 24px;
+    padding: 32px 24px 32px 24px;
     font-size: 20px;
     background-color: white;
     width: 45%;
