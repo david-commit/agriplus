@@ -379,6 +379,19 @@ nav ul li a:active{
     width: 25%;
     margin-bottom: 12px;   
 }
+.read{
+    margin-left: 75%;
+    cursor: pointer;
+}
+.read p{
+    font-weight: 500;
+    font-size: 20px;
+}
+.read span{
+    position: relative;
+    right: -70%;
+    top: -90px;
+}
 /* ==END OF ESTEEMED CONTAINER== */
 
 
