@@ -347,9 +347,11 @@ nav ul li a:active{
 .esteemedcontainer{
     width: 100%;
     margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
 }
 .user{
-    width: 30%;
+    width: 28%;
     padding: 12px;
     box-shadow: 0 0 4px 0px;
     height: 250px auto;
@@ -361,7 +363,7 @@ nav ul li a:active{
 }
 .star img{
     width: 20%;
-    margin-bottom: 32px;
+    margin-bottom: 36px;
 }
 .user h3{
     text-align: left;
@@ -375,9 +377,8 @@ nav ul li a:active{
 }
 .name img{
     width: 25%;
-    
+    margin-bottom: 12px;   
 }
-
 /* ==END OF ESTEEMED CONTAINER== */
 
 
