@@ -1,7 +1,7 @@
 # Portfolio
 
 ##### By David Ondiege
-### This is a README file on my project on AgriPlus
+### Information about the project on AgriPlus
 
 ## Table of Content
 
@@ -13,7 +13,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is  a website that shows my assignment. It contains the landing page of the AgriPlus business that provides more information about the business.</p>
+<p>This is  a website I made as my assignment in week TWO while at Moringa school as part of the course requirements. It contains the landing page of the AgriPlus visually appealing website which provides more information about the business.</p>
 
 ## Installation
 
