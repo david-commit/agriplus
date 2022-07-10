@@ -34,8 +34,7 @@
 * CSS - was used to style the pages and make it visually appealing
 
 ## Reference
-* 
-Moringa School Course Content
+* Moringa School Course Content
 
 [Go Back to the top](#portfolio)
 
