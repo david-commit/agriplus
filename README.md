@@ -21,7 +21,7 @@
 
 ### Requirements
 
-* Either a computer,phone,tablet or an Ipad (web browser)
+* Any web browser on any device eg Android, Windows etc
 
 * Access to the Internet
 
@@ -46,8 +46,8 @@ No licence
 
 ## Authors Info
 
-Slack Name - [David Ondiege]
+Slack Name - [@David Ondiege]
 
-Linked - [David Ondiege](david.ondiege@student.moringaschool.com)
+Email Address - [David Ondiege](david.ondiege@student.moringaschool.com)
 
 [Go Back to the top](#portfolio)
