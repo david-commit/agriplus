@@ -444,16 +444,17 @@ nav ul li a:active{
 
 }
 .social img{
-    width: 10%;
+    width: 8%;
     border-radius: 30px;
     margin-top: 10px;
+    margin-bottom: 10ox;
 }
 .apps{
     display: flex;
     justify-content: flex-start;
     margin-top: 10px;
-    margin-bottom: 15px;
 }
+
 .apps img{
     width: 25%;
     border-radius: 10px;
