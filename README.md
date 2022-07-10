@@ -30,9 +30,9 @@
 
 [Go Back to the top](#portfolio)
 ## Technology Used
-* HTML - was used to build the structure of the pages.
+* HTML5 - Is used to build the structure of the pages and position all elements.
 
-* CSS - was used to style the pages and make it visually appealing
+* CSS - Is used to style the pages and give a it an appealing visual appearance.
 
 ## Reference
 * Moringa School Course Content
