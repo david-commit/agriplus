@@ -26,6 +26,7 @@
 * Access to the Internet
 
 ### Installation Process
+<p>Start by running the index.html file on a we browser</p>
 
 [Go Back to the top](#portfolio)
 ## Technology Used
@@ -46,7 +47,7 @@ No licence
 
 ## Authors Info
 
-Slack Name - [@David Ondiege]
+Slack Name - @David Ondiege
 
 Email Address - [David Ondiege](david.ondiege@student.moringaschool.com)
 
